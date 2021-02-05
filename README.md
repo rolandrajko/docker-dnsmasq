@@ -6,8 +6,7 @@ It's a small [Dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) image.
 
 In production it is usually a good idea to use a tag other than `latest`. There are currently tags below to choose from:
 
-* `rolandrajko/dnsmasq:2.82`: dnsmasq 2.81 based on Alpine 3.12
-* `rolandrajko/dnsmasq:2.81`: dnsmasq 2.81 based on Alpine 3.12
+* `rolandrajko/dnsmasq:2.84`: dnsmasq 2.84 based on Alpine 3.13
 * `rolandrajko/dnsmasq:2.80`: dnsmasq 2.80 based on Alpine 3.9
 
 Dnsmasq requires `NET_ADMIN` capabilities to run correctly:
